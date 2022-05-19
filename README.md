@@ -8,7 +8,7 @@ steamshim-n is a shim written in CXX, providing various programs access to [Valv
  - Ruby, check `client/ruby` [In Heavy Development]
 
 ## Installing Host
-Currently, only Windows NT is supported in tested, but expect Linux and macOS support in future!
+Currently, only Windows NT is supported and tested, but expect Linux and macOS support in future!
 To build SteamShim-N you will need Python, Meson Build System, Ninja, MinGW GNU C Compiler and Steamworks SDK itself\
  - Meson Build System and Ninja: `pip3 install meson ninja`
  - MinGW GNU C Compiler: https://www.msys2.org/
